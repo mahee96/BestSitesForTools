@@ -12,4 +12,5 @@ This repository contains Links to some of the best tools that I require to get m
 > - [uruit.com/mircoservice-architecture](https://uruit.com/blog/microservices-architecture/) - Software Architectures - MICROSERVICES
 > - [uruit.com/app-development/](https://uruit.com/blog/category/app-development/) - App development related blog content
 > - [academy.realm.io](https://academy.realm.io/posts/mvc-vs-mvp-vs-mvvm-vs-mvi-mobilization-moskala/) - MVC vs MVP vs MVVM vs MVI in android 
+> - [dzone.com](https://dzone.com/articles/amazing-open-source-android-apps-written-in-java) - Amazing Open Source Android Apps Written in Java
 
