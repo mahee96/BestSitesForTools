@@ -20,4 +20,5 @@ This repository contains Links to some of the best tools that I require to get m
 > - [12factor.net](https://12factor.net/) - Twelve Factor advices for Building SaaS
 > - [sqlite.org](https://www.sqlite.org/arch.html) - Architecture of SQLite (A-Z opensource)
 > - [alexhultman.medium.com](https://alexhultman.medium.com/millions-of-active-websockets-with-node-js-7dc575746a01) - Handling millions of web sockets with Async model of Node.js.
+> - [agrawalsuneet.github.io](https://agrawalsuneet.github.io/blogs/safe-calls-vs-null-checks-in-kotlin/) - safe calls(.?) vs asserted null checks(!!) vs ?.let{ } etc in Kotlin
 
