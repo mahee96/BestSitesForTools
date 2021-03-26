@@ -17,4 +17,5 @@ This repository contains Links to some of the best tools that I require to get m
 > - [sqlitetutorial](https://www.sqlitetutorial.net/) - SQLite tutorial A-Z (All about SQLite)
 > - [geeksforgeeks](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/) - SQL | DDL, DQL, DML, DCL and TCL Commands
 > - [imperva.com](https://www.imperva.com/learn/application-security/sql-injection-sqli/) - SQL injections hacks and possible security issues
+> - [12factor.net](https://12factor.net/) - Twelve Factor advices for Building SaaS
 
