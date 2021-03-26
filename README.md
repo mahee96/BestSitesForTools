@@ -18,5 +18,6 @@ This repository contains Links to some of the best tools that I require to get m
 > - [geeksforgeeks](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/) - SQL | DDL, DQL, DML, DCL and TCL Commands
 > - [imperva.com](https://www.imperva.com/learn/application-security/sql-injection-sqli/) - SQL injections hacks and possible security issues
 > - [12factor.net](https://12factor.net/) - Twelve Factor advices for Building SaaS
-> - [sqlite.org](https://www.sqlite.org/arch.html) - Architecture of SQLite [A-Z opensource]
+> - [sqlite.org](https://www.sqlite.org/arch.html) - Architecture of SQLite (A-Z opensource)
+> - [alexhultman.medium.com](https://alexhultman.medium.com/millions-of-active-websockets-with-node-js-7dc575746a01) - Handling millions of web sockets.
 
