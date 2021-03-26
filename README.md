@@ -23,5 +23,5 @@ This repository contains Links to some of the best tools that I require to get m
 > - [agrawalsuneet.github.io](https://agrawalsuneet.github.io/blogs/safe-calls-vs-null-checks-in-kotlin/) - safe calls(.?) vs asserted null checks(!!) vs ?.let{ } etc in Kotlin
 > - [guides.codepath.com](https://guides.codepath.com/android/dependency-injection-with-dagger-2) - Dependency injection with Dagger 2 (Android).
 > - [material.io](https://material.io/design) - Material Design Components MDC by google (Material Design guide).
-> - [medium.com](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) - How to Prepare for FAANG INTERVIEWS 
+> - [medium.com](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) - How to Prepare for FAANG INTERVIEWS (by ESCO OBONG - with Trello template)
 
