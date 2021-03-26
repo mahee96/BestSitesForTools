@@ -8,4 +8,5 @@ This repository contains Links to some of the best tools that I require to get m
 
 ## Blogs (Concepts)
 > - [stephencleary.com](https://blog.stephencleary.com/) - Windows internals and architecture, tasks, async,await, kernels, MVC etc.
-> - [https://uruit.com/](https://uruit.com/blog/microservices-architecture/) - Software Architectures - MICROSERVICES
+> - [uruit.com/mircoservice-architecture](https://uruit.com/blog/microservices-architecture/) - Software Architectures - MICROSERVICES
+> - [uruit.com/app-development/](https://uruit.com/blog/category/app-development/) - App development related blog content
