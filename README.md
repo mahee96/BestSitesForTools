@@ -15,4 +15,5 @@ This repository contains Links to some of the best tools that I require to get m
 > - [dzone.com](https://dzone.com/articles/amazing-open-source-android-apps-written-in-java) - Amazing Open Source Android Apps Written in Java
 > - [sqlitetutorial](https://www.sqlitetutorial.net/) - SQLite tutorial A-Z (All about SQLite)
 > - [geeksforgeeks](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/) - SQL | DDL, DQL, DML, DCL and TCL Commands
+> - [imperva.com](https://www.imperva.com/learn/application-security/sql-injection-sqli/) - SQL injections
 
