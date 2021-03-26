@@ -14,4 +14,5 @@ This repository contains Links to some of the best tools that I require to get m
 > - [academy.realm.io](https://academy.realm.io/posts/mvc-vs-mvp-vs-mvvm-vs-mvi-mobilization-moskala/) - MVC vs MVP vs MVVM vs MVI in android 
 > - [dzone.com](https://dzone.com/articles/amazing-open-source-android-apps-written-in-java) - Amazing Open Source Android Apps Written in Java
 > - [sqlitetutorial](https://www.sqlitetutorial.net/) - SQLite tutorial A-Z (All about SQLite)
+> - [geeksforgeeks](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/) - SQL | DDL, DQL, DML, DCL and TCL Commands
 
