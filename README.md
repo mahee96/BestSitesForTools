@@ -26,4 +26,5 @@ This repository contains Links to some of the best tools that I require to get m
 > - [material.io](https://material.io/design) - Material Design Components MDC by google (Material Design guide).
 > - [medium.com](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df) - How to Prepare for FAANG INTERVIEWS (by ESCO OBONG - with Trello template)
 > - [highscalability.com](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html) - Kernel hacks for scaling active(network) connections.
+> - [javarevisited.blogspot.com](https://javarevisited.blogspot.com/2014/08/socket-programming-networking-interview-questions-answers-Java.html#axzz6qPGtnxXu) - Java Socket Programming - refresh your knowledge.
 
