@@ -7,6 +7,7 @@ This repository contains Links to some of the best tools that I require to get m
 > - [svg2vector.com](https://svg2vector.com/) - Online SVG to vector converter.
 
 ## Blogs (Concepts)
+> - [wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) - Software development principles.
 > - [martinfowler.com](https://martinfowler.com/articles/serverless.html) - Serverless Architecture (FaaS) AWS lambda etc.
 > - [javacodegeeks.com](https://www.javacodegeeks.com/2019/01/selecting-software-architecture.html) - Software Architectures for building applications
 > - [stephencleary.com](https://blog.stephencleary.com/) - Windows internals and architecture, tasks, async,await, kernels, MVC etc.
