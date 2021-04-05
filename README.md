@@ -30,4 +30,4 @@ This repository contains Links to some of the best tools that I require to get m
 > - [javarevisited.blogspot.com](https://javarevisited.blogspot.com/2014/08/socket-programming-networking-interview-questions-answers-Java.html#axzz6qPGtnxXu) - Java Socket Programming - refresh your knowledge.
 > - [bestofjs.org](https://bestofjs.org/) - Some top open source JS projects, includes Node, Deno, React etc
 > - [bugsnag.com](https://www.bugsnag.com/blog/bug-day-ariane-5-disaster) - Software Bugs that have costed millions (Ariane 5 rocket launch) Integer addition Overflow (due to type casting to lower size) 
-> - [freecodecamp.in](https://www.freecodecamp.org/news/understanding-java-generic-types-covariance-and-contravariance-88f4c19763d2/) - Java generics [Wildcards, Covariance, Contravariance]
+> - [freecodecamp.org](https://www.freecodecamp.org/news/understanding-java-generic-types-covariance-and-contravariance-88f4c19763d2/) - Java generics [Wildcards, Covariance, Contravariance]
