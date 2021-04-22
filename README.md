@@ -32,3 +32,5 @@ This repository contains Links to some of the best tools that I require to get m
 > - [bugsnag.com](https://www.bugsnag.com/blog/bug-day-ariane-5-disaster) - Software Bugs that have costed millions (Ariane 5 rocket launch) Integer addition Overflow (due to type casting to lower size) 
 > - [freecodecamp.org](https://www.freecodecamp.org/news/understanding-java-generic-types-covariance-and-contravariance-88f4c19763d2/) - Java generics [Wildcards, Covariance, Contravariance]
 > - [medium.com](https://medium.com/@fatihcoskun/kotlin-nullable-types-vs-java-optional-988c50853692) - Java Optional vs Kotlin Nullable(?)
+> - [careerbless.com](https://www.careerbless.com/aptitude/qa/permutations_combinations.php) - Permutations and Combinations Questions and Answers
+  > - [youtube.com](https://www.youtube.com/watch?v=s0uK5dnaho0) - Permutations and Combinations theory(derivation). 
