@@ -9,6 +9,8 @@ This repository contains Links to some of the best tools that I require to get m
 
 ## Blogs (Concepts)
 > - [infoq.com](https://www.infoq.com/presentations/api-history/) - Api's History, Future - CORBA, SOAP, REST, GraphQL, WebSockets, WebHooks, HTTP, Protobuffs, WCF, Apache Kafka, RabbitMQ, VOIP, etc etc.
+> - [github.io](https://cstack.github.io/db_tutorial/) - How Does a Database Work? (RDBMS engine from scratch)
+> - [sqlite.org](https://sqlite.org/src/doc/trunk/README.md) - SQLite architecture (Official page - OSS)
 > - [wikipedia.org](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) - Software development principles.
 > - [martinfowler.com](https://martinfowler.com/articles/serverless.html) - Serverless Architecture (FaaS) AWS lambda etc.
 > - [javacodegeeks.com](https://www.javacodegeeks.com/2019/01/selecting-software-architecture.html) - Software Architectures for building applications
